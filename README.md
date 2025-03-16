@@ -1,7 +1,9 @@
 # reyalka
 
 ![](https://komarev.com/ghpvc/?username=reyalka&style=for-the-badge)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/reyalka_dev?style=for-the-badge)
+![X](https://img.shields.io/twitter/follow/reyalka_dev?style=for-the-badge)
+![Zenn](https://img.shields.io/badge/Zenn-%40reyalka-%233EA8FF?style=for-the-badge&logo=zenn&link=https%3A%2F%2Fzenn.dev%2Freyalka&link=https%3A%2F%2Fzenn.dev%2Freyalka)
+
 
 Frontend Engineer & Student
 
