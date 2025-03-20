@@ -1,0 +1,11 @@
+{
+  "name": "reyalka",
+  "version": "1.0.0",
+  "scripts": {
+    "fmt": "prettier --write README.md"
+  },
+  "packageManager": "pnpm@10.6.5",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
