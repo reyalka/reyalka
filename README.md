@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=reyalka&style=for-the-badge" alt="Profile Views">
 </a>
 
+---
+
 <a href="https://x.com/reyalka_dev">
   <img src="https://img.shields.io/badge/X-%40reyalka__dev-blue?style=for-the-badge&logo=x" alt="X">
 </a>
