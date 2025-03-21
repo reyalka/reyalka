@@ -1,9 +1,25 @@
 # reyalka
 
-![](https://komarev.com/ghpvc/?username=reyalka&style=for-the-badge)
+<a href="https://github.com/reyalka">
+  <img src="https://komarev.com/ghpvc/?username=reyalka&style=for-the-badge" alt="Profile Views">
+</a>
 
-![X](https://img.shields.io/twitter/follow/reyalka_dev?style=for-the-badge)
-![Zenn](https://img.shields.io/badge/Zenn-%40reyalka-%233EA8FF?style=for-the-badge&logo=zenn&link=https%3A%2F%2Fzenn.dev%2Freyalka&link=https%3A%2F%2Fzenn.dev%2Freyalka)
+<a href="https://x.com/reyalka_dev">
+  <img src="https://img.shields.io/badge/X-%40reyalka__dev-blue?style=for-the-badge&logo=x" alt="X">
+</a>
+<a href="https://zenn.dev/reyalka">
+  <img src="https://img.shields.io/badge/Zenn-%40reyalka-blue?style=for-the-badge&logo=zenn" alt="Zenn">
+</a>
+<a href="https://wakatime.com/@a46bf7ca-4afd-49c5-8ca2-6ccfdced69e1">
+  <img src="https://wakatime.com/badge/user/a46bf7ca-4afd-49c5-8ca2-6ccfdced69e1.svg?style=for-the-badge" alt="Total time coded since Dec 7 2024">
+</a>
+<a href="https://reyalka.pages.dev">
+  <img src="https://img.shields.io/badge/my%20site-%E3%82%8C%E3%82%84%E3%81%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-blue?style=for-the-badge&logo=googlemaps" alt="My Site">
+</a>
+
+---
+
+a.k.a. れやか
 
 Frontend Engineer & Student
 
@@ -41,4 +57,13 @@ Frontend Engineer & Student
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyalka&theme=github_dark">
   <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyalka&theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyalka&theme=github_dark">
+  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyalka&theme=github">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github_dark&utcOffset=8">
+  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github&utcOffset=8">
 </picture>
