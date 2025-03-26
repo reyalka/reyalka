@@ -23,7 +23,7 @@
 
 a.k.a. れやか
 
-Frontend Engineer & Student
+Web Engineer & Student
 
 ## Contributions
 
