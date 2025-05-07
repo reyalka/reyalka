@@ -67,5 +67,5 @@ Web Engineer & Student
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github_dark&utcOffset=8">
-  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github&utcOffset=8">
+  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github&utcOffset=9">
 </picture>
