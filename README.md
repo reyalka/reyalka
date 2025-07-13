@@ -47,20 +47,6 @@ Web Engineer & Student
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-## Skills
-
-### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,python,rust,lua,bash,regex&theme=dark&perline=15)](https://skillicons.dev)
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vite,astro,nextjs,deno,tailwindcss,cloudflare,npm,yarn,pnpm,bun,figma&theme=dark&perline=10)](https://skillicons.dev)
-
-### Environment
-
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,git,github,vim,neovim,vscode&theme=dark&perline=15)](https://skillicons.dev)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyalka&theme=github_dark">
   <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyalka&theme=github">
