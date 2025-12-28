@@ -47,20 +47,3 @@ Web Engineer & Student
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyalka&theme=github_dark">
-  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyalka&theme=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyalka&theme=github_dark">
-  <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyalka&theme=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyalka&theme=github_dark">
-  <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyalka&theme=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github_dark&utcOffset=8">
-  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyalka&theme=github&utcOffset=9">
-</picture>
